@@ -1,0 +1,12 @@
+{
+  "download_url": "https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv",
+  "data_dictionary_url": "https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.names",
+  "submission_filename": "03_Dataset.csv",
+  "original_filename": "pima-indians-diabetes.data.csv",
+  "rows": 768,
+  "columns": 9,
+  "bytes": 23278,
+  "sha256": "6bfe5d0f379d17a0e0819b996407e3c09bf80febd4287f2ed212190dfff154af",
+  "content_change": "Filename only, original headerless CSV bytes preserved",
+  "redistribution_license": "The public mirror has no explicit dataset redistribution license."
+}
